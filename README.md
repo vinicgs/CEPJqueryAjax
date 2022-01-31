@@ -1,1 +1,1 @@
-# Gerador de CEP com JqueryAjaxe API integrada
+# Gerador de CEP com Jquery Ajax e API integrada
